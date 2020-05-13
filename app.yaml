@@ -1,6 +1,6 @@
 runtime: go113
 
 handlers:
-- url: /.*
+- url: auto
   script: _go_app
   secure: always
