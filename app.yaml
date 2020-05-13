@@ -1,5 +1,5 @@
 runtime: go114
-application: golangweb-277107
+
 handlers:
 - url: /.*
   script: _go_app
